@@ -161,5 +161,3 @@ Et les référencer dans le README :
 
 Ce projet est libre d’utilisation à des fins éducatives.
 © 2025 Franc Duxy — Tous droits réservés.
-
-```
