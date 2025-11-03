@@ -163,8 +163,3 @@ Ce projet est libre d’utilisation à des fins éducatives.
 © 2025 Franc Duxy — Tous droits réservés.
 
 ```
-
----
-
-Souhaites-tu que je te le formate automatiquement (avec les bons titres, emojis et indentations) et que je te donne la **commande exacte** à taper pour l’ajouter à ton dépôt GitHub ?
-```
